@@ -2,7 +2,7 @@
 
 Sugestão do código do DOJO feito dia 03-02-2016 na ThoughtWorks - BH
 
-# Conta a soma de caracteres utilizados para escrever todos os numeros antecesores a um numero, e ele mesmo.
+### Conta a soma de caracteres utilizados para escrever todos os numeros antecesores a um numero, e ele mesmo.
 
 
 Exemplo:
