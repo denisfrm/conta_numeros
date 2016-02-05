@@ -1,4 +1,4 @@
-## Conta números por extenso - DOJO
+## Conta números por extenso
 
 Sugestão do código do DOJO feito dia 03-02-2016 na ThoughtWorks - BH
 
